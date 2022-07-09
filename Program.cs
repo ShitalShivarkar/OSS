@@ -25,7 +25,7 @@ namespace CSharpAdvFeatureDemoApp
                 {
                     FirstName = "Shital",
                     LastName = "Shivarkar",
-                    Age = 47,
+                    Age = 26,
                     Email = "shital123@gmail.com",
                     ContactNumber = "9898237896",
                     CompanyOwner =false
