@@ -16,7 +16,7 @@ namespace TestProject
 
         public string FirstName { get; set; }
         public string LastName { get; set; }
-
+        public int ContactNumber { get; set; }
         public virtual double CalculateSalary()
         { 
             return BasicSalary +5000 + DailyAllowance;
